@@ -67,19 +67,13 @@ enableCORS = false
 
 ```
 |   app.py
-|   image-captioner.ipynb
-|   LICENSE.md
-|   mymodel.h5
+|   image_captioning.PY
 |   README.md
-|   requirements.txt
-|   tokenizer.pkl
-\---resource
-        demo.gif
 ```
 
 ## Bug / Feature Request
 
-If you encounter any bugs or issues with the loan status predictor app, please let me know by opening an issue on my [GitHub repository](https://github.com/Sajid030/image-captioning/issues). Be sure to include the details of your query and the expected results. Your feedback is valuable in helping me improve the app for all users. Thank you for your support!
+If you encounter any bugs or issues with the loan status predictor app, please let me know by opening an issue on my [GitHub repository](https://github.com/Chinrasu011/Image-Captioning-Using-Deep-Learning/issues). Be sure to include the details of your query and the expected results. Your feedback is valuable in helping me improve the app for all users. Thank you for your support!
 
 ## Future Scope
 
